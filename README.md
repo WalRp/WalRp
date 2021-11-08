@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Waldemar Rupp
-- 👀 I’m interested in automation
+- 👀 I’m interested in &#127949;
 - 🌱 I’m currently learning C# WPF, java / Kotlin
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
